@@ -1,7 +1,7 @@
 name: map_to_md
 description: A dart package that converts a list of Map to a markdown formatted table.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/allasca/map_to_md
 
 environment:
   sdk: '>=2.19.5 <3.0.0'
